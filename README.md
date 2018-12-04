@@ -1,6 +1,6 @@
 # Welcome to the SAP Cloud Platform Portal for Support Site GitHub Repository
  
-The SAP Cloud Platform Portal for the Support Site repository provides all you need to deploy the Support Site solution on your Cloud Platform account and connect it to your SAP Hybris Cloud for Customer (C4C) tenant. Click [here](https://hcp.sap.com/capabilities/ux/cloud-portal.html) to receive more information on using SAP Cloud Platform Portal.
+The SAP Cloud Platform Portal for the Support Site repository provides a sample of a Support Site solution on your Cloud Platform account and how to connect it to your SAP Hybris Cloud for Customer (C4C) tenant. Click [here](https://hcp.sap.com/capabilities/ux/cloud-portal.html) to receive more information on using SAP Cloud Platform Portal.
  
 ## How to Deploy the Support Site Sample Solution
  
